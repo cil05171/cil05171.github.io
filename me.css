@@ -1,0 +1,70 @@
+/*21861012_김나현*/
+.ohoh img{
+  display: block;
+  margin: auto;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  width: 25%;
+}
+.ohoh2 img{
+  display: block;
+  margin: auto;
+  padding-top: 90px;
+  padding-bottom: 20px;
+  width: 60%;
+}
+.ohoh3 img{
+  display: block;
+  margin: auto;
+  padding-top: 35px;
+  padding-bottom: 20px;
+  width: 50%;
+}
+.hhh3 {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 10px;
+  color:#70FF3B;
+}
+.hh3 {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+  color:#70FF3B;
+}
+h3 {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+  color:#70FF3B;
+}
+
+.zz {
+  text-align: center;
+  font-size: 17px;
+  margin-top: 50px;
+  color:#70FF3B;
+}
+.sleep img{
+  display:inline;
+  width: 50%;
+}
+
+#my li{
+  display: inline;
+}
+#my {
+  float:left;
+  text-align:center;
+  margin-top: 35px;
+}
+.myt {
+  text-align: center;
+  font-size: 17px;
+  margin-top: 90px;
+  color:#70FF3B;
+}
+
+footer {
+margin-bottom: 40px;
+}
