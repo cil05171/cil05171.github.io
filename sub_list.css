@@ -1,0 +1,129 @@
+/*21861012_김나현*/
+section#main {
+
+  padding-left: 40px;
+  padding-right: 40px;
+  height: auto;
+}
+section#main h2#board_title {
+  margin-top:20px;
+  padding:0 0 5px 0;
+  color: #70FF3B;
+}
+section#main #search {
+  position:absolute;
+  left:460px;
+}
+section#main #search #select_img {
+  position:absolute;
+  top:9px;
+}
+section#main #search #search_select {
+  position:absolute;
+  top:5px;
+  left:60px;
+}
+section#main #search #search_input {
+  position:absolute;
+  top:7px;
+  left:130px;
+}
+section#main #search #search_input input {
+  width:100px;
+}
+section#main #search #search_btn {
+  position:absolute;
+  top:6px;
+  left:240px;
+}
+section#main table {
+  border-collapse:collapse;
+  margin:0 auto;
+  width:100%;
+  color: #ffffff;
+}
+section#main tr {
+  height:40px;
+}
+section#main th {
+  border-bottom: solid 1px #70FF3B;
+  /*background-color:#eeeeee;*/
+  color: #70FF3B;
+}
+section#main td.col1 {
+  width:220px;
+  text-align:center;
+  border-top: solid 1px #70FF3B;
+}
+section#main td.col11 {
+  width:220px;
+  text-align:center;
+
+}
+section#main td.col2 {
+text-align:center;
+border-top: solid 1px #70FF3B;
+}
+section#main td.col22 {
+text-align:center;
+
+}
+section#main td.col3 {
+  width:270px;
+  text-align:center;
+  border-top: solid 1px #70FF3B;
+}
+section#main td.col33 {
+  width:270px;
+  text-align:center;
+
+}
+section#main td.col4 {
+  width:120px;
+  text-align:center;
+  border-top: solid 1px #70FF3B;
+}
+section#main td.col44 {
+  width:120px;
+  text-align:center;
+
+}
+section#main td.col5 {
+  width:100px;
+  text-align:center;
+  border-top: solid 1px #70FF3B;
+}
+section#main td.col55 {
+  width:100px;
+  text-align:center;
+
+}
+section#main td a:link {
+  text-decoration:none;
+  color:#ffffff;
+}
+section#main td a:hover {
+  text-decoration:none;
+  color:#70FF3B;
+}
+section#main td a:visited {
+  text-decoration:none;
+  color:#ffffff;
+}
+section#main td a:active {
+  text-decoration:none;
+  color:#FFF59A;
+}
+
+
+
+.ohoh img{
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+footer {
+  padding-top: 10px;
+}
