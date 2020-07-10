@@ -1,0 +1,86 @@
+/*21861012_김나현*/
+* {
+  margin:0;
+  padding:0;
+}
+body {
+  font-family:"산돌고딕";
+  font-size:12px;
+  color:#444444;
+  background-color:#000000;
+}
+ul {
+  list-style-type:none;
+}
+#wrap {
+  width:970px;
+  margin: 0 auto;
+}
+.clear {
+  clear:both;
+}
+
+
+
+
+.header {
+  padding: 20px;
+  margin-left: 20px;
+  text-align:left;
+  background: #000000;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #70FF3B;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #000000;
+  color: #FFF59A;
+}
+
+
+footer {
+  height:auto;
+  margin-top: 50px;
+  /*border-top:solid 3px #70FF3B;*/
+  background-color: #000000;
+}
+
+footer #address {
+  float:left;
+  margin:20px 0 0 40px;
+  color: #70FF3B;
+}
+
+footer #footer_logo{
+  float: right;
+  margin:20px 40px 0 0;
+}
+footer #footer_sns {
+  float:right;
+  margin:0 40px 0 0;
+}
+footer #footer_sns li {
+  display: inline;
+}
